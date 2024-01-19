@@ -27,6 +27,6 @@ python run_ensemble.py --forecast_date 2021-05-01
 ## 4. Citation
 If you find this repository useful in your research, please consider citing:
 ```script
-To be determined...
+To be determined
 
 ```
