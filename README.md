@@ -22,7 +22,7 @@ python run_ensemble.py --forecast_date 2021-05-01
 
 ## 3. Note
 - To run MSGNN, an NVIDIA GPU with at least 6GB memory is required.
-- The code is implemented on Python 3.7.10 with PyTorch 1.7.1, Ubuntu 22.04.1.
+- The code is implemented on a server with Intel Core i7 10700F, 32GB of RAM, an NVIDIA RTX 2070 SUPER, Ubuntu 22.04.1 LTS 
 
 ## 4. Citation
 If you find this repository useful in your research, please consider citing:
